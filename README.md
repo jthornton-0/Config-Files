@@ -4,8 +4,6 @@ I am using this profile to post personal programmes that I have designed.
 
 The code I post will be a mixture of Lua, Python, C++, MATLAB and MySQL depending upon the application with perhaps some LaTeX.
 
-I can be reached at pi6688@protonmail.com if required.
-
 <!---
 pi6688/pi6688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
